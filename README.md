@@ -1,1 +1,1 @@
-Translator który rozjebie
+Translator który rozjebie banie
