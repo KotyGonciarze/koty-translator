@@ -1,1 +1,1 @@
-# web-translator
+Translator który rozjebie
