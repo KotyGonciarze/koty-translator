@@ -4,11 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "typecheck": "tsc --noEmit",
-    "dev": "vite --port=3001",
+    "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "start": "vite"
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/react": "^19.0.8",
